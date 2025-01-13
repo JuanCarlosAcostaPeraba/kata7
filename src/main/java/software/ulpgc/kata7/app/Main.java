@@ -1,8 +1,8 @@
-package software.ulpgc.bounceBall.app;
+package software.ulpgc.kata7.app;
 
-import software.ulpgc.bounceBall.model.Ball;
-import software.ulpgc.bounceBall.presenter.BallPresenter;
-import software.ulpgc.bounceBall.view.MainFrame;
+import software.ulpgc.kata7.model.Ball;
+import software.ulpgc.kata7.presenter.BallPresenter;
+import software.ulpgc.kata7.view.MainFrame;
 
 public class Main {
     public static void main(String[] args) {

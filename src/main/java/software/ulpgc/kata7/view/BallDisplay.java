@@ -1,4 +1,4 @@
-package software.ulpgc.bounceBall.view;
+package software.ulpgc.kata7.view;
 
 public interface BallDisplay {
     int getHeight();

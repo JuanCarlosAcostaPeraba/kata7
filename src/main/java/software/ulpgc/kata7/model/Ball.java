@@ -1,4 +1,4 @@
-package software.ulpgc.bounceBall.model;
+package software.ulpgc.kata7.model;
 
 import java.util.ArrayList;
 import java.util.List;

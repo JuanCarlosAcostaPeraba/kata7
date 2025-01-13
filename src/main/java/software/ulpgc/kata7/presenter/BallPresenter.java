@@ -1,8 +1,8 @@
-package software.ulpgc.bounceBall.presenter;
+package software.ulpgc.kata7.presenter;
 
-import software.ulpgc.bounceBall.model.Ball;
-import software.ulpgc.bounceBall.model.Observer;
-import software.ulpgc.bounceBall.view.BallDisplay;
+import software.ulpgc.kata7.model.Ball;
+import software.ulpgc.kata7.model.Observer;
+import software.ulpgc.kata7.view.BallDisplay;
 
 public class BallPresenter implements Observer {
     private final static double PixelsByMeter = 100;
